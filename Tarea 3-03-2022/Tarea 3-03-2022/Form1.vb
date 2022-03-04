@@ -1,5 +1,5 @@
 ﻿Public Class Form1
-    Dim nombrePersona As String = ""
+    
     Function Restar(texto As String) As String
         Dim numero As Integer = Int32.Parse(texto)
         Dim nuevoTexto As String
